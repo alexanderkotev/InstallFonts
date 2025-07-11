@@ -1,0 +1,10 @@
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\FontsInstaller.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\FontsInstaller.Properties.Resources.resources
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\FontsInstaller.csproj.GenerateResource.cache
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\FontsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\FontsInstaller.MainForm.resources
+C:\Users\GRIGS\source\repos\FontsInstaller\bin\Debug\Fonts Installer.exe.config
+C:\Users\GRIGS\source\repos\FontsInstaller\bin\Debug\Fonts Installer.exe
+C:\Users\GRIGS\source\repos\FontsInstaller\bin\Debug\Fonts Installer.pdb
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\Fonts Installer.exe
+C:\Users\GRIGS\source\repos\FontsInstaller\obj\Debug\Fonts Installer.pdb
